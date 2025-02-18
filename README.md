@@ -1,2 +1,3 @@
 # web1
-my first web in github
+This is a simple static website hosted on GitHub Pages.
+
